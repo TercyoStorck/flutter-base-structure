@@ -1,0 +1,2 @@
+- All logical files are palced here;
+- Create a folder for a domain. Even if it have only one file;

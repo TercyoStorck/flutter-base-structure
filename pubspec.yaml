@@ -1,0 +1,17 @@
+name: flutter_base_structure
+description: Basic structure for build INFLOR projects 
+version: 1.0.0+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  get_it: ^3.0.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - ./assets/strings/

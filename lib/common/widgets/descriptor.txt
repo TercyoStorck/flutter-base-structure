@@ -1,0 +1,2 @@
+- When you have a widget that'll used in a lot of views;
+- Create a folder with widget name. Even if it have only one file;

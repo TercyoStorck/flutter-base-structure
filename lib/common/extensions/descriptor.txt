@@ -1,0 +1,2 @@
+- Place files that are for extension methods;
+- Create a file for a type;

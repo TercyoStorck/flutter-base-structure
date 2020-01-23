@@ -1,0 +1,1 @@
+- For every service you communicate. Create a folder and put your Data transfer objects insed it.
